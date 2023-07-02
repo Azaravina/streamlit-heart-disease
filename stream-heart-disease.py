@@ -5,7 +5,7 @@ import streamlit as st
 heart_disease_model = pickle.load(open('heart_disease_model.sav', 'rb'))
 
 #Judul Web
-st.title('Data Mining Prediksi penyakit Jantung')
+st.title('Data Mining Prediksi Penyakit Jantung')
 
 
 #Edith Colomn
